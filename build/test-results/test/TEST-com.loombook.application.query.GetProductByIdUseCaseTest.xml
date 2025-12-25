@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.loombook.application.query.GetProductByIdUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-12-25T07:56:57" hostname="DESKTOP-EAKORAJ" time="0.017">
+  <properties/>
+  <testcase name="商品存在時應回傳商品資訊" classname="com.loombook.application.query.GetProductByIdUseCaseTest" time="0.015"/>
+  <testcase name="商品不存在時應回傳空" classname="com.loombook.application.query.GetProductByIdUseCaseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

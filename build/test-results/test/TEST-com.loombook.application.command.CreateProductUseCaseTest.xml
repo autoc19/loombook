@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.loombook.application.command.CreateProductUseCaseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-12-25T07:56:57" hostname="DESKTOP-EAKORAJ" time="0.292">
+  <properties/>
+  <testcase name="輸入合法時應建立商品並回傳結果" classname="com.loombook.application.command.CreateProductUseCaseTest" time="0.284"/>
+  <testcase name="priceCents 為負數時應拋出例外" classname="com.loombook.application.command.CreateProductUseCaseTest" time="0.004"/>
+  <testcase name="name 空白時應拋出例外" classname="com.loombook.application.command.CreateProductUseCaseTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

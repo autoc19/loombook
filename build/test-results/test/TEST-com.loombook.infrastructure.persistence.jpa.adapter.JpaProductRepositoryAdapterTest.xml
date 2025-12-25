@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.loombook.infrastructure.persistence.jpa.adapter.JpaProductRepositoryAdapterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-12-25T07:56:57" hostname="DESKTOP-EAKORAJ" time="0.021">
+  <properties/>
+  <testcase name="應能儲存並查回商品" classname="com.loombook.infrastructure.persistence.jpa.adapter.JpaProductRepositoryAdapterTest" time="0.014"/>
+  <testcase name="查詢不存在的商品應回傳空" classname="com.loombook.infrastructure.persistence.jpa.adapter.JpaProductRepositoryAdapterTest" time="0.006"/>
+  <system-out><![CDATA[2025-12-25T15:56:57.573+08:00  INFO 4268 --- [loombook] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.loombook.infrastructure.persistence.jpa.adapter.JpaProductRepositoryAdapterTest]: JpaProductRepositoryAdapterTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-12-25T15:56:57.606+08:00  INFO 4268 --- [loombook] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.loombook.LoombookApplication for test class com.loombook.infrastructure.persistence.jpa.adapter.JpaProductRepositoryAdapterTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
