@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.loombook.domain.model.ProductTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-12-25T07:56:57" hostname="DESKTOP-EAKORAJ" time="0.005">
-  <properties/>
-  <testcase name="Product 必須持有所有必要屬性" classname="com.loombook.domain.model.ProductTest" time="0.001"/>
-  <testcase name="建立有效的 Product" classname="com.loombook.domain.model.ProductTest" time="0.001"/>
-  <testcase name="透過 Product 建立時 Value Object 約束應生效" classname="com.loombook.domain.model.ProductTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

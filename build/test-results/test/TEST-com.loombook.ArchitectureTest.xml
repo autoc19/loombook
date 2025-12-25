@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.loombook.ArchitectureTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-12-25T07:56:52" hostname="DESKTOP-EAKORAJ" time="0.11">
-  <properties/>
-  <testcase name="Rule A: Domain 層不得依賴 Spring Framework" classname="com.loombook.ArchitectureTest" time="0.105"/>
-  <testcase name="Rule B: API 層不得依賴 Infrastructure 層" classname="com.loombook.ArchitectureTest" time="0.003"/>
-  <system-out><![CDATA[15:56:51.272 [Test worker] INFO com.tngtech.archunit.core.PluginLoader -- Detected Java version 21.0.9
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
